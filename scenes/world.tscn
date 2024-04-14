@@ -26,7 +26,7 @@ position = Vector2(0, 0.5)
 shape = SubResource("RectangleShape2D_j4w5s")
 
 [node name="Platform2" type="StaticBody2D" parent="."]
-position = Vector2(1148, 542)
+position = Vector2(1279, 540)
 scale = Vector2(0.502955, 0.666588)
 
 [node name="MeshInstance2D" type="MeshInstance2D" parent="Platform2"]
@@ -38,7 +38,7 @@ position = Vector2(0, 0.5)
 shape = SubResource("RectangleShape2D_j4w5s")
 
 [node name="Platform3" type="StaticBody2D" parent="."]
-position = Vector2(1719, 446)
+position = Vector2(2030, 479)
 scale = Vector2(0.502955, 0.666588)
 
 [node name="MeshInstance2D" type="MeshInstance2D" parent="Platform3"]
@@ -50,7 +50,7 @@ position = Vector2(0, 0.5)
 shape = SubResource("RectangleShape2D_j4w5s")
 
 [node name="Platform4" type="StaticBody2D" parent="."]
-position = Vector2(1023, 293)
+position = Vector2(1357, 276)
 scale = Vector2(0.502955, 0.666588)
 
 [node name="MeshInstance2D" type="MeshInstance2D" parent="Platform4"]
@@ -58,5 +58,18 @@ modulate = Color(0.321569, 0, 1, 1)
 mesh = SubResource("QuadMesh_de3si")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Platform4"]
+position = Vector2(0, 0.5)
+shape = SubResource("RectangleShape2D_j4w5s")
+
+[node name="Platform5" type="StaticBody2D" parent="."]
+position = Vector2(267, 313)
+rotation = -1.58259
+scale = Vector2(0.502955, 0.666588)
+
+[node name="MeshInstance2D" type="MeshInstance2D" parent="Platform5"]
+modulate = Color(0.321569, 0, 1, 1)
+mesh = SubResource("QuadMesh_de3si")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Platform5"]
 position = Vector2(0, 0.5)
 shape = SubResource("RectangleShape2D_j4w5s")
