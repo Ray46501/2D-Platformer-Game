@@ -3,7 +3,6 @@ extends CharacterBody2D
 # Importing Gravity and Making Speed and JV Accessible in Inspector Menu
 @export var SPEED = 300.0
 @export var JUMP_VELOCITY = -500.0
-
 var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 
 # Handling Wallslide and Limiting Player Jumps
