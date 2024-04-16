@@ -1,8 +1,28 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1713154530
-icon.svg::CompressedTexture2D::8936851628160148579::1712924983::1712925011::1::::<><>::
-::res://scenes/::1713153250
-player.tscn::PackedScene::6932933403222510308::1713151666::0::1::::<><>::uid://d0lcv1te3hr4n::::res://icon.svg<>res://scripts/player.gd
-world.tscn::PackedScene::1749587557644835813::1713153250::0::1::::<><>::uid://c51mnuw548gye::::res://scenes/player.tscn
-::res://scripts/::1713153250
-player.gd::GDScript::-1::1713153250::0::1::::<>CharacterBody2D<>::
+::res://::1713242821
+icon.svg::CompressedTexture2D::8936851628160148579::1713154642::1713154642::1::::<><>::
+::res://assests/::1713239370
+::res://assests/textures/::1713239425
+AttackCaveExplorer-Sheet.png::CompressedTexture2D::5560682199124127928::1713239425::1713239425::1::::<><>::
+DeathCaveExplorer-Sheet.png::CompressedTexture2D::8807423202807463656::1713239425::1713239425::1::::<><>::
+HurtCaveExplorer-Sheet.png::CompressedTexture2D::4905761709244435394::1713239425::1713239425::1::::<><>::
+IdleCaveExplorer-Sheet.png::CompressedTexture2D::1093935126147424437::1713239425::1713239425::1::::<><>::
+WalkingCaveExplorer-Sheet.png::CompressedTexture2D::2982562041205468396::1713239425::1713239425::1::::<><>::
+::res://Cave Explorer (Animated Pixel Art)/::1713154651
+::res://Cave Explorer (Animated Pixel Art)/Cave Explorer (Animated Pixel Art)/::1713154651
+::res://Cave Explorer (Animated Pixel Art)/Cave Explorer (Animated Pixel Art)/Animation Sprite Sheets (PNG)/::1713154686
+AttackCaveExplorer-Sheet.png::CompressedTexture2D::1911290832231414952::1713154651::1713154685::1::::<><>::
+DeathCaveExplorer-Sheet.png::CompressedTexture2D::579316909251208025::1713154651::1713154685::1::::<><>::
+HurtCaveExplorer-Sheet.png::CompressedTexture2D::4014532670718345212::1713154651::1713154685::1::::<><>::
+IdleCaveExplorer-Sheet.png::CompressedTexture2D::3401970664933488263::1713154651::1713154685::1::::<><>::
+WalkingCaveExplorer-Sheet.png::CompressedTexture2D::8082767889336644551::1713154651::1713154686::1::::<><>::
+::res://Cave Explorer (Animated Pixel Art)/Cave Explorer (Animated Pixel Art)/Aseprite Files/::1713154651
+::res://Cave Explorer (Animated Pixel Art)/Cave Explorer (Animated Pixel Art)/Preview/::1713154652
+::res://Cave Explorer (Animated Pixel Art)/Cave Explorer (Animated Pixel Art)/Preview/Cover/::1713154686
+Cave Explorer Cover Photo.png::CompressedTexture2D::4843950609687819003::1713154652::1713154686::1::::<><>::
+::res://Cave Explorer (Animated Pixel Art)/Cave Explorer (Animated Pixel Art)/Preview/Preview GIFs/::1713239130
+::res://scenes/::1713242644
+player.tscn::PackedScene::6932933403222510308::1713242644::0::1::::<><>::res://scripts/player.gd<>uid://pt57mfxjo6tt::::res://assests/textures/IdleCaveExplorer-Sheet.png<>uid://biq1mjnewpwho::::res://assests/textures/WalkingCaveExplorer-Sheet.png
+world.tscn::PackedScene::1749587557644835813::1713242644::0::1::::<><>::uid://c51mnuw548gye::::res://scenes/player.tscn
+::res://scripts/::1713225053
+player.gd::GDScript::-1::1713225053::0::1::::<>CharacterBody2D<>::
