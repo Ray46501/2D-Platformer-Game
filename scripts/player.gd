@@ -3,11 +3,10 @@ extends CharacterBody2D
 # Importing Gravity and Making Speed and JV Accessible in Inspector Menu
 @export var SPEED = 300.0
 @export var JUMP_VELOCITY = -500.0
-var DASH_SPEED = SPEED * 3
-
-
-
 var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
+
+@onready var ap = $AnimationPlayer
+@onready var sprite =  $Sprite2D
 
 # Handling Wallslide and Limiting Player Jumps
 var current_jumps = 0
@@ -18,6 +17,7 @@ var wall_jump_rebound = 100
 var wall_slide_gravity = 100
 var is_wall_sliding = false
 var dashing = false
+var DASH_SPEED = SPEED * 2.5
 
 # Adds Physics
 
@@ -38,6 +38,8 @@ func _physics_process(delta):
 		$dash_timer.start()
 
 	var direction = Input.get_axis("move_left", "move_right")
+	if direction != 0:
+		switch_direction(direction)
 	if dashing:
 		velocity.x = direction * DASH_SPEED
 	else:	
@@ -67,6 +69,8 @@ func _physics_process(delta):
 		current_jumps += 1
 		current_sjumps += 1
 	
+	update_animations(direction)			
+	
 func wall_slide(delta):
 	if is_on_wall() && !is_on_floor():
 		if Input.is_action_pressed("move_left") || Input.is_action_pressed("move_right"):
@@ -80,6 +84,8 @@ func wall_slide(delta):
 		current_jumps = 0
 		velocity.y += (wall_slide_gravity * delta)    
 		velocity.y = min(velocity.y, wall_slide_gravity)
+		
+	
 
 	move_and_slide()
 	print(velocity)
@@ -87,3 +93,15 @@ func wall_slide(delta):
 
 func _on_dash_timer_timeout():
 	dashing = false
+
+func update_animations(direction):
+	if is_on_floor():
+		if direction == 0:
+			ap.play("idle")
+		else:
+			ap.play("walk")
+
+func switch_direction(direction):
+	sprite.flip_h = (direction == -1)
+	sprite.position.x = direction * 39
+	
