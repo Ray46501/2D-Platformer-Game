@@ -1,8 +1,8 @@
 [gd_scene load_steps=9 format=3 uid="uid://c51mnuw548gye"]
 
 [ext_resource type="Script" path="res://scripts/player.gd" id="1_v4yv0"]
-[ext_resource type="Texture2D" uid="uid://pt57mfxjo6tt" path="res://assests/textures/IdleCaveExplorer-Sheet.png" id="2_4f8s1"]
-[ext_resource type="Texture2D" uid="uid://biq1mjnewpwho" path="res://assests/textures/WalkingCaveExplorer-Sheet.png" id="3_65vg2"]
+[ext_resource type="Texture2D" uid="uid://pt57mfxjo6tt" path="res://assests/Cave Explorer/IdleCaveExplorer-Sheet.png" id="2_4f8s1"]
+[ext_resource type="Texture2D" uid="uid://biq1mjnewpwho" path="res://assests/Cave Explorer/WalkingCaveExplorer-Sheet.png" id="3_65vg2"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_avplx"]
 

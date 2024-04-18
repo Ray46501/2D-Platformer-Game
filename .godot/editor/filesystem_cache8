@@ -1,28 +1,109 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1713257849
+::res://::1713408025
 icon.svg::CompressedTexture2D::8936851628160148579::1713154642::1713154642::1::::<><>::
-::res://assests/::1713239370
-::res://assests/textures/::1713239425
-AttackCaveExplorer-Sheet.png::CompressedTexture2D::5560682199124127928::1713239425::1713239425::1::::<><>::
-DeathCaveExplorer-Sheet.png::CompressedTexture2D::8807423202807463656::1713239425::1713239425::1::::<><>::
-HurtCaveExplorer-Sheet.png::CompressedTexture2D::4905761709244435394::1713239425::1713239425::1::::<><>::
-IdleCaveExplorer-Sheet.png::CompressedTexture2D::1093935126147424437::1713239425::1713239425::1::::<><>::
-WalkingCaveExplorer-Sheet.png::CompressedTexture2D::2982562041205468396::1713239425::1713239425::1::::<><>::
-::res://Cave Explorer (Animated Pixel Art)/::1713154651
-::res://Cave Explorer (Animated Pixel Art)/Cave Explorer (Animated Pixel Art)/::1713154651
-::res://Cave Explorer (Animated Pixel Art)/Cave Explorer (Animated Pixel Art)/Animation Sprite Sheets (PNG)/::1713154686
-AttackCaveExplorer-Sheet.png::CompressedTexture2D::1911290832231414952::1713154651::1713154685::1::::<><>::
-DeathCaveExplorer-Sheet.png::CompressedTexture2D::579316909251208025::1713154651::1713154685::1::::<><>::
-HurtCaveExplorer-Sheet.png::CompressedTexture2D::4014532670718345212::1713154651::1713154685::1::::<><>::
-IdleCaveExplorer-Sheet.png::CompressedTexture2D::3401970664933488263::1713154651::1713154685::1::::<><>::
-WalkingCaveExplorer-Sheet.png::CompressedTexture2D::8082767889336644551::1713154651::1713154686::1::::<><>::
-::res://Cave Explorer (Animated Pixel Art)/Cave Explorer (Animated Pixel Art)/Aseprite Files/::1713154651
-::res://Cave Explorer (Animated Pixel Art)/Cave Explorer (Animated Pixel Art)/Preview/::1713154652
-::res://Cave Explorer (Animated Pixel Art)/Cave Explorer (Animated Pixel Art)/Preview/Cover/::1713154686
-Cave Explorer Cover Photo.png::CompressedTexture2D::4843950609687819003::1713154652::1713154686::1::::<><>::
-::res://Cave Explorer (Animated Pixel Art)/Cave Explorer (Animated Pixel Art)/Preview/Preview GIFs/::1713239130
-::res://scenes/::1713242644
-player.tscn::PackedScene::6932933403222510308::1713242644::0::1::::<><>::res://scripts/player.gd<>uid://pt57mfxjo6tt::::res://assests/textures/IdleCaveExplorer-Sheet.png<>uid://biq1mjnewpwho::::res://assests/textures/WalkingCaveExplorer-Sheet.png
-world.tscn::PackedScene::1749587557644835813::1713242644::0::1::::<><>::uid://c51mnuw548gye::::res://scenes/player.tscn
-::res://scripts/::1713225053
-player.gd::GDScript::-1::1713225053::0::1::::<>CharacterBody2D<>::
+::res://Arcane archer/::1713407949
+::res://Arcane archer/Arcane archer/::1713407956
+projectile.png::CompressedTexture2D::5031391787403105251::1713407949::1713407956::1::::<><>::
+spritesheet.png::CompressedTexture2D::9059030856220150294::1713407949::1713407956::1::::<><>::
+::res://assests/::1713408025
+::res://assests/Cave Explorer/::1713239425
+AttackCaveExplorer-Sheet.png::CompressedTexture2D::5560682199124127928::1713239425::1713408025::1::::<><>::
+DeathCaveExplorer-Sheet.png::CompressedTexture2D::8807423202807463656::1713239425::1713408025::1::::<><>::
+HurtCaveExplorer-Sheet.png::CompressedTexture2D::4905761709244435394::1713239425::1713408025::1::::<><>::
+IdleCaveExplorer-Sheet.png::CompressedTexture2D::1093935126147424437::1713239425::1713408025::1::::<><>::
+WalkingCaveExplorer-Sheet.png::CompressedTexture2D::2982562041205468396::1713239425::1713408025::1::::<><>::
+::res://assests/EVil Wizard 2/::1713407949
+::res://assests/EVil Wizard 2/EVil Wizard 2/::1713407949
+License.txt::TextFile::-1::1713407949::0::1::::<><>::
+::res://assests/EVil Wizard 2/EVil Wizard 2/Sprites/::1713407993
+Attack1.png::CompressedTexture2D::7902434933079009212::1713407949::1713407992::1::::<><>::
+Attack2.png::CompressedTexture2D::6632082780702867000::1713407949::1713407992::1::::<><>::
+Death.png::CompressedTexture2D::9037448298008967317::1713407949::1713407992::1::::<><>::
+Fall.png::CompressedTexture2D::5680959310243563607::1713407949::1713407992::1::::<><>::
+Idle.png::CompressedTexture2D::4028487647316073492::1713407949::1713407992::1::::<><>::
+Jump.png::CompressedTexture2D::3966565595737651150::1713407949::1713407992::1::::<><>::
+Run.png::CompressedTexture2D::5460133316013246518::1713407949::1713407993::1::::<><>::
+Take hit.png::CompressedTexture2D::943226359372442550::1713407949::1713407992::1::::<><>::
+::res://assests/Fire Worm/::1713407949
+::res://assests/Fire Worm/Fire Worm/::1713407998
+License.txt::TextFile::-1::1713407949::0::1::::<><>::
+Preview.png::CompressedTexture2D::386519825996003409::1713407949::1713407998::1::::<><>::
+::res://assests/Fire Worm/Fire Worm/Sprites/::1713407949
+::res://assests/Fire Worm/Fire Worm/Sprites/Fire Ball/::1713407998
+Explosion.png::CompressedTexture2D::9152662567298564860::1713407949::1713407998::1::::<><>::
+Move.png::CompressedTexture2D::8691374009264289541::1713407949::1713407998::1::::<><>::
+::res://assests/Fire Worm/Fire Worm/Sprites/Worm/::1713407998
+Attack.png::CompressedTexture2D::6312006331631794190::1713407949::1713407998::1::::<><>::
+Death.png::CompressedTexture2D::5206930515656636878::1713407949::1713407998::1::::<><>::
+Get Hit.png::CompressedTexture2D::1379555333304960294::1713407949::1713407998::1::::<><>::
+Idle.png::CompressedTexture2D::5488004351753878157::1713407949::1713407998::1::::<><>::
+Walk.png::CompressedTexture2D::8412013790803834903::1713407949::1713407998::1::::<><>::
+::res://assests/Free Street Animal Pixel Art/::1713407949
+Font.txt::TextFile::-1::1713407949::0::1::::<><>::
+license.txt::TextFile::-1::1713407949::0::1::::<><>::
+::res://assests/Free Street Animal Pixel Art/1 Dog/::1713408005
+Attack.png::CompressedTexture2D::3943426202847779635::1713407949::1713408005::1::::<><>::
+Death.png::CompressedTexture2D::2045760451403276722::1713407949::1713408005::1::::<><>::
+Hurt.png::CompressedTexture2D::2537139682951629195::1713407949::1713408005::1::::<><>::
+Idle.png::CompressedTexture2D::981011622388466288::1713407949::1713408005::1::::<><>::
+Walk.png::CompressedTexture2D::3456534440581941548::1713407949::1713408005::1::::<><>::
+::res://assests/Free Street Animal Pixel Art/2 Dog 2/::1713408005
+Attack.png::CompressedTexture2D::4188399980983146004::1713407949::1713408005::1::::<><>::
+Death.png::CompressedTexture2D::2075830491019742648::1713407949::1713408005::1::::<><>::
+Hurt.png::CompressedTexture2D::1208524673012025272::1713407949::1713408005::1::::<><>::
+Idle.png::CompressedTexture2D::4928487070209687737::1713407949::1713408005::1::::<><>::
+Walk.png::CompressedTexture2D::6606660050599724196::1713407949::1713408005::1::::<><>::
+::res://assests/Free Street Animal Pixel Art/3 Cat/::1713408005
+Attack.png::CompressedTexture2D::8582453262501088953::1713407949::1713408005::1::::<><>::
+Death.png::CompressedTexture2D::8447905285550947332::1713407949::1713408005::1::::<><>::
+Hurt.png::CompressedTexture2D::6181020523013487413::1713407949::1713408005::1::::<><>::
+Idle.png::CompressedTexture2D::333275167452943315::1713407949::1713408005::1::::<><>::
+Walk.png::CompressedTexture2D::4910868095305667873::1713407949::1713408005::1::::<><>::
+::res://assests/Free Street Animal Pixel Art/4 Cat 2/::1713408005
+Attack.png::CompressedTexture2D::4954529218247014493::1713407949::1713408005::1::::<><>::
+Death.png::CompressedTexture2D::5584488369029574479::1713407949::1713408005::1::::<><>::
+Hurt.png::CompressedTexture2D::8646694304579973116::1713407949::1713408005::1::::<><>::
+Idle.png::CompressedTexture2D::5749140175972974008::1713407949::1713408004::1::::<><>::
+Walk.png::CompressedTexture2D::9190022858400734806::1713407949::1713408004::1::::<><>::
+::res://assests/Free Street Animal Pixel Art/5 Rat/::1713408004
+Death.png::CompressedTexture2D::6518331278102714282::1713407949::1713408004::1::::<><>::
+Hurt.png::CompressedTexture2D::5600512986014734939::1713407949::1713408004::1::::<><>::
+Idle.png::CompressedTexture2D::5593212143780394822::1713407949::1713408004::1::::<><>::
+Walk.png::CompressedTexture2D::4544091974906840744::1713407949::1713408004::1::::<><>::
+::res://assests/Free Street Animal Pixel Art/6 Rat 2/::1713408005
+Death.png::CompressedTexture2D::3907255510975987138::1713407949::1713408004::1::::<><>::
+Hurt.png::CompressedTexture2D::7290390423808469189::1713407949::1713408005::1::::<><>::
+Idle.png::CompressedTexture2D::9202584216444798308::1713407949::1713408005::1::::<><>::
+Walk.png::CompressedTexture2D::6337179127238975504::1713407949::1713408005::1::::<><>::
+::res://assests/Free Street Animal Pixel Art/7 Bird/::1713408005
+Death.png::CompressedTexture2D::6453497892173713855::1713407949::1713408005::1::::<><>::
+Hurt.png::CompressedTexture2D::401410390339345252::1713407949::1713408005::1::::<><>::
+Idle.png::CompressedTexture2D::4669075203510828349::1713407949::1713408005::1::::<><>::
+Walk.png::CompressedTexture2D::7356910741189181631::1713407949::1713408005::1::::<><>::
+::res://assests/Free Street Animal Pixel Art/8 Bird 2/::1713408005
+Death.png::CompressedTexture2D::5253888475853497608::1713407949::1713408005::1::::<><>::
+Hurt.png::CompressedTexture2D::5147000119467205365::1713407949::1713408005::1::::<><>::
+Idle.png::CompressedTexture2D::7838001617156919274::1713407949::1713408005::1::::<><>::
+Walk.png::CompressedTexture2D::7718652637086652954::1713407949::1713408005::1::::<><>::
+::res://assests/Ghostguy/::1713408009
+Fullmain.png::CompressedTexture2D::4497890757264101396::1713407949::1713408009::1::::<><>::
+main2.1.png::CompressedTexture2D::551684007342933852::1713407949::1713408009::1::::<><>::
+main.png::CompressedTexture2D::4320847824781549519::1713407949::1713408009::1::::<><>::
+::res://assests/Legacy-Dungeon_V0.2_vacaroxa/::1713407949
+::res://assests/Legacy-Dungeon_V0.2_vacaroxa/Final/::1713407949
+Autor_note.txt::TextFile::-1::1713407949::0::1::::<><>::
+release.txt::TextFile::-1::1713407949::0::1::::<><>::
+::res://assests/Legacy-Dungeon_V0.2_vacaroxa/Final/Assets/::1713408012
+Assets.png::CompressedTexture2D::7400823469632526693::1713407949::1713408012::1::::<><>::
+Background_1.png::CompressedTexture2D::8999887172878610062::1713407949::1713408012::1::::<><>::
+Background_2.png::CompressedTexture2D::7601159169388027392::1713407949::1713408012::1::::<><>::
+Character_Sprite_Sheet.png::CompressedTexture2D::6175039595512522057::1713407949::1713408012::1::::<><>::
+::res://assests/Legacy-Dungeon_V0.2_vacaroxa/Final/Social/::1713408012
+Assets.png::CompressedTexture2D::2895088682576079256::1713407949::1713408012::1::::<><>::
+Test.png::CompressedTexture2D::1714429681517823212::1713407949::1713408012::1::::<><>::
+Test_2.png::CompressedTexture2D::6106019471163378432::1713407949::1713408012::1::::<><>::
+::res://scenes/::1713408025
+player.tscn::PackedScene::6932933403222510308::1713408025::0::1::::<><>::res://scripts/player.gd<>uid://pt57mfxjo6tt::::res://assests/Cave Explorer/IdleCaveExplorer-Sheet.png<>uid://biq1mjnewpwho::::res://assests/Cave Explorer/WalkingCaveExplorer-Sheet.png
+world.tscn::PackedScene::1749587557644835813::1713347686::0::1::::<><>::uid://c51mnuw548gye::::res://scenes/player.tscn
+::res://scripts/::1713316620
+player.gd::GDScript::-1::1713316620::0::1::::<>CharacterBody2D<>::
