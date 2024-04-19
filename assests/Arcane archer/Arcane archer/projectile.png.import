@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://clhvvgv4q1yua"
-path="res://.godot/imported/AttackCaveExplorer-Sheet.png-c84778df32b5ac2247c68c60fbba2ea7.ctex"
+uid="uid://cdxij1rrxgcn8"
+path="res://.godot/imported/projectile.png-5a0fac406d4aef49eb4e363404c3c7ed.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assests/Cave Explorer/AttackCaveExplorer-Sheet.png"
-dest_files=["res://.godot/imported/AttackCaveExplorer-Sheet.png-c84778df32b5ac2247c68c60fbba2ea7.ctex"]
+source_file="res://assests/Arcane archer/Arcane archer/projectile.png"
+dest_files=["res://.godot/imported/projectile.png-5a0fac406d4aef49eb4e363404c3c7ed.ctex"]
 
 [params]
 

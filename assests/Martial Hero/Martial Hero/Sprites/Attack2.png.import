@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cdxij1rrxgcn8"
-path="res://.godot/imported/projectile.png-d57285d102a1daafd5282d7c3c25fa9d.ctex"
+uid="uid://2fqptsf28m7y"
+path="res://.godot/imported/Attack2.png-47c1eb7b36b064a71ee7d3a9ca5f03dd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Arcane archer/Arcane archer/projectile.png"
-dest_files=["res://.godot/imported/projectile.png-d57285d102a1daafd5282d7c3c25fa9d.ctex"]
+source_file="res://assests/Martial Hero/Martial Hero/Sprites/Attack2.png"
+dest_files=["res://.godot/imported/Attack2.png-47c1eb7b36b064a71ee7d3a9ca5f03dd.ctex"]
 
 [params]
 

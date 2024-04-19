@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://pt57mfxjo6tt"
-path="res://.godot/imported/IdleCaveExplorer-Sheet.png-2fb0fd634f0a425a2bf2f537bfa7a0d0.ctex"
+uid="uid://b10yt53ecvvcr"
+path="res://.godot/imported/Take Hit - white silhouette.png-249f7b0f9750c1797da2596fa2a42a39.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assests/Cave Explorer/IdleCaveExplorer-Sheet.png"
-dest_files=["res://.godot/imported/IdleCaveExplorer-Sheet.png-2fb0fd634f0a425a2bf2f537bfa7a0d0.ctex"]
+source_file="res://assests/Martial Hero/Martial Hero/Sprites/Take Hit - white silhouette.png"
+dest_files=["res://.godot/imported/Take Hit - white silhouette.png-249f7b0f9750c1797da2596fa2a42a39.ctex"]
 
 [params]
 

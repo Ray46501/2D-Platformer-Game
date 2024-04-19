@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://biq1mjnewpwho"
-path="res://.godot/imported/WalkingCaveExplorer-Sheet.png-283c38aa8f9b55e08fee21fde03c9934.ctex"
+uid="uid://cp5rsr2cowedx"
+path="res://.godot/imported/Run.png-b82ec1cbbef4daf58445d38aa3879b2c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assests/Cave Explorer/WalkingCaveExplorer-Sheet.png"
-dest_files=["res://.godot/imported/WalkingCaveExplorer-Sheet.png-283c38aa8f9b55e08fee21fde03c9934.ctex"]
+source_file="res://assests/Martial Hero/Martial Hero/Sprites/Run.png"
+dest_files=["res://.godot/imported/Run.png-b82ec1cbbef4daf58445d38aa3879b2c.ctex"]
 
 [params]
 

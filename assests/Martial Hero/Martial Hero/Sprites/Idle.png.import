@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d2ci6dl3nfiuw"
-path="res://.godot/imported/spritesheet.png-3bbfce63f47fe911dc1e0073d6707be6.ctex"
+uid="uid://dr23btdjw2srf"
+path="res://.godot/imported/Idle.png-ed4a7a95b3a33d254a421f720cd06d53.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Arcane archer/Arcane archer/spritesheet.png"
-dest_files=["res://.godot/imported/spritesheet.png-3bbfce63f47fe911dc1e0073d6707be6.ctex"]
+source_file="res://assests/Martial Hero/Martial Hero/Sprites/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-ed4a7a95b3a33d254a421f720cd06d53.ctex"]
 
 [params]
 

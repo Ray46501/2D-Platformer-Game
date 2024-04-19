@@ -99,9 +99,9 @@ func update_animations(direction):
 		if direction == 0:
 			ap.play("idle")
 		else:
-			ap.play("walk")
+			ap.play("run")
 
 func switch_direction(direction):
 	sprite.flip_h = (direction == -1)
-	sprite.position.x = direction * 39
+	sprite.position.x = direction
 	

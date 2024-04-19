@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dxqm8dhk3ydki"
-path="res://.godot/imported/DeathCaveExplorer-Sheet.png-c214671edffa0aebd63a32ada32af742.ctex"
+uid="uid://dxl7l3kynijmr"
+path="res://.godot/imported/Death.png-6a5f2a1953c676863cf7d7b9f070ebdb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assests/Cave Explorer/DeathCaveExplorer-Sheet.png"
-dest_files=["res://.godot/imported/DeathCaveExplorer-Sheet.png-c214671edffa0aebd63a32ada32af742.ctex"]
+source_file="res://assests/Martial Hero/Martial Hero/Sprites/Death.png"
+dest_files=["res://.godot/imported/Death.png-6a5f2a1953c676863cf7d7b9f070ebdb.ctex"]
 
 [params]
 

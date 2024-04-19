@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cb5ngcqdv2lao"
-path="res://.godot/imported/HurtCaveExplorer-Sheet.png-975ad1db2c4d0d7f0ecd6ecb8926474c.ctex"
+uid="uid://b7p21gqdq1suw"
+path="res://.godot/imported/Fall.png-45d7b41b14ac413c720ddeb76299ae51.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assests/Cave Explorer/HurtCaveExplorer-Sheet.png"
-dest_files=["res://.godot/imported/HurtCaveExplorer-Sheet.png-975ad1db2c4d0d7f0ecd6ecb8926474c.ctex"]
+source_file="res://assests/Martial Hero/Martial Hero/Sprites/Fall.png"
+dest_files=["res://.godot/imported/Fall.png-45d7b41b14ac413c720ddeb76299ae51.ctex"]
 
 [params]
 
