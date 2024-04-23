@@ -88,7 +88,7 @@ func wall_slide(delta):
 	
 
 	move_and_slide()
-	print(velocity)
+	
 
 
 func _on_dash_timer_timeout():
@@ -100,6 +100,11 @@ func update_animations(direction):
 			ap.play("idle")
 		else:
 			ap.play("run")
+	else:
+		if velocity.y < 0:
+			ap.play("jump")
+		elif  velocity.y > 0:
+			ap.play("fall")			
 
 func switch_direction(direction):
 	sprite.flip_h = (direction == -1)

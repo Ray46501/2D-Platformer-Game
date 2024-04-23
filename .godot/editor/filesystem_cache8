@@ -1,17 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1713486385
+::res://::1713862624
 icon.svg::CompressedTexture2D::8936851628160148579::1713154642::1713154642::1::::<><>::
-::res://assests/::1713486385
+::res://assests/::1713487429
 ::res://assests/Arcane archer/::1713407949
-::res://assests/Arcane archer/Arcane archer/::1713407956
+::res://assests/Arcane archer/Arcane archer/::1713486386
 projectile.png::CompressedTexture2D::5031391787403105251::1713407949::1713486386::1::::<><>::
 spritesheet.png::CompressedTexture2D::9059030856220150294::1713407949::1713486386::1::::<><>::
-::res://assests/Cave Explorer/::1713408025
-AttackCaveExplorer-Sheet.png::CompressedTexture2D::5560682199124127928::1713239425::1713408025::1::::<><>::
-DeathCaveExplorer-Sheet.png::CompressedTexture2D::8807423202807463656::1713239425::1713408025::1::::<><>::
-HurtCaveExplorer-Sheet.png::CompressedTexture2D::4905761709244435394::1713239425::1713408025::1::::<><>::
-IdleCaveExplorer-Sheet.png::CompressedTexture2D::1093935126147424437::1713239425::1713408025::1::::<><>::
-WalkingCaveExplorer-Sheet.png::CompressedTexture2D::2982562041205468396::1713239425::1713408025::1::::<><>::
 ::res://assests/EVil Wizard 2/::1713407949
 ::res://assests/EVil Wizard 2/EVil Wizard 2/::1713407949
 License.txt::TextFile::-1::1713407949::0::1::::<><>::
@@ -115,8 +109,8 @@ Jump.png::CompressedTexture2D::7426724694840639818::1713486008::1713486014::1:::
 Run.png::CompressedTexture2D::5888670622462919837::1713486008::1713486015::1::::<><>::
 Take Hit - white silhouette.png::CompressedTexture2D::4264432819184317681::1713486008::1713486015::1::::<><>::
 Take Hit.png::CompressedTexture2D::4508281586218863383::1713486008::1713486015::1::::<><>::
-::res://scenes/::1713486193
-player.tscn::PackedScene::6932933403222510308::1713486193::0::1::::<><>::res://scripts/player.gd<>uid://pt57mfxjo6tt::::res://assests/Cave Explorer/IdleCaveExplorer-Sheet.png<>uid://biq1mjnewpwho::::res://assests/Cave Explorer/WalkingCaveExplorer-Sheet.png
-world.tscn::PackedScene::1749587557644835813::1713486193::0::1::::<><>::uid://c51mnuw548gye::::res://scenes/player.tscn
-::res://scripts/::1713316620
-player.gd::GDScript::-1::1713316620::0::1::::<>CharacterBody2D<>::
+::res://scenes/::1713591067
+player.tscn::PackedScene::6932933403222510308::1713591067::0::1::::<><>::res://scripts/player.gd<>uid://dr23btdjw2srf::::res://assests/Martial Hero/Martial Hero/Sprites/Idle.png<>uid://cp5rsr2cowedx::::res://assests/Martial Hero/Martial Hero/Sprites/Run.png<>uid://dd2tcnxpqhkcg::::res://assests/Martial Hero/Martial Hero/Sprites/Jump.png
+world.tscn::PackedScene::1749587557644835813::1713489098::0::1::::<><>::uid://c51mnuw548gye::::res://scenes/player.tscn
+::res://scripts/::1713489096
+player.gd::GDScript::-1::1713489096::0::1::::<>CharacterBody2D<>::
